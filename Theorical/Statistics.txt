@@ -1,0 +1,40 @@
+`````````````` Descriptive Statics ``````````````
+- describes the characteristics of a data set.
+- Thre basic categories of measures are measure of central tendency, measures of variability and frequency
+distributin
+- measure of central tendency (mean = average, median = middle value, mode = the most occurance data)
+- measure of variability describe the dispersion of the data set (variance, standar deviation)
+- measure of frequency distribution describe the occurrence of data within the data set (count)
+
+`````````````` Inferential Statistics ``````````````
+- a set of method that is used to draw a conclusion about the characteristics of
+population based on the sample of the data.
+- used to find the population parameter when you have no initial number to start with
+
+`````````````` Types of data ``````````````
+
+- Categorical data: a data where the values are characteristics (Gender: F, M or Location: IDN, JPN)
+- Numerical data: a data where the values are numerical (Age: 30,21 or Salary: 100, 200)
+
+- Qualitative: nominal data and ordinal data (also known as categorical data)
+- Quantitave: discrete data and continuous data (also known as numerical data)
+
+``````````` Qualitative Data ``````````````
+
+-- Nominal data label the variables without providing the numerical value
+-- also called nominal scale where it cannot be ordered and measured
+-- the data grouped into categories
+
+-- Ordinal Data the data can be ordered
+-- the information may be expressed with table in which each row in the table
+shows the distinct category.
+
+``````````````````````````````````````````
+
+``````````` Qualitative Data ``````````````
+-- Discrete data can take only discrete values.
+-- count data that have non decimal values exp (age, number of worker)
+
+-- Continous data can be calcualted and have infinite number of probable values
+-- can be selected within a given specific range exp (height, width)
+```````````````````````````````````````````
