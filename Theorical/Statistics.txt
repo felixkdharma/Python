@@ -37,4 +37,58 @@ shows the distinct category.
 
 -- Continous data can be calcualted and have infinite number of probable values
 -- can be selected within a given specific range exp (height, width)
+
+```````````````````````````````````````````
+
+``````````` Sampling Method ``````````````
+-- Population is a whole data that exists
+-- Sample is a few some data (not all data collected) from population and will be used for analytical
+sample is important because, can make information faster, easily analyse the data.
+
+-- Probability Sampling Every member of population has an equal chance of beng selected 
+
+exp: simple random sampling, stratified random sampling, cluster sampling, systematic sampling
+-- Non Probability Sampling samples are selected on the basis of judgement or the conveniece of accessing data
+exp: conveniece sampling, Purposive sampling, Voluntary Response sampling, Snowball sampling
+
+(PROBABILITY SAMPLING)
+-- Random Sampling
+randomly choose a member of population
+every member and set of member has an equal Probability
+
+-- Systematic Sampling
+put a member of the population in some order and starting point is choose as 
+random the ever 'nth' member is selected as a sample.
+
+-- Stratified Sampling
+creating a sample of data based on the distribution of data (1000 records have 600 male and 400 female)
+first divide the population into group
+then from each group we select members randmoly
+
+-- Cluster Random Sampling 
+divide the population into groups
+randomly select the group from all the groups
+step: 
+1. get a population 
+2. divide a population into cluster
+3. randomly using the cluster's sample
+
+(NON PROBABILITY SAMPLING)
+-- Convenience sampling
+Include the responds/members who are easy to reach the researcher.
+
+-- Purposive sampling
+select a sample based on the purpose of the researcher
+researcher select the sample by using their expertise and knowledge
+
+-- Voluntary Response Sampling
+based on the ease of access data
+members volunteer themselves insted of researcher selecting the participants and directly contact themselves
+
+-- Snowball sampling
+recruit the participants via research participants for test or study
+used where it's hard to find the potential population for research 
+
+-- Term of Sampling
+std: its a meassure of how spread numbers are
 ```````````````````````````````````````````
