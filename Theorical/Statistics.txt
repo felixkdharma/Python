@@ -92,3 +92,46 @@ used where it's hard to find the potential population for research
 -- Term of Sampling
 std: its a meassure of how spread numbers are
 ```````````````````````````````````````````
+
+
+--- Descriptive Analytics ---
+1. Measures of Central Tendency
+- Measures the center of data set.
+- Give us about the concentration of the value in central part of distribution
+ex (mean/average, median, mode)
+-- Mean --
+1. it compute the sum of all observation divided total of data set.
+why do we use mean ?
+- to handle the missing values (basic handling missing values)
+formula: sigma X / n
+
+-- Median --
+2. middle number
+- number of observations (n) is odd 
+- the median is the middle value which is at position (3rd data and 3rd data)
+- the data set it should be sorted
+formula: (n  + 1)/n
+
+-- Mode -- 
+3. Mode
+- the most frequency number of observations in the dataset.
+
+--- Measures of Dispresion ---
+that how the data is dispresed from the measure of central tendency.
+1. Range difference max and min value (formula max - min)
+2. variance 
+- indicates how the data is dispread around the mean.
+- measure of the dispresion of the data set.
+- if the value of variance is lower to mean then it's a low variance.
+- if there is significant difference between value and mean than its high variance.
+formula (sigma (x-mu)^2 / n )
+3. IQR (Inter-Quality Range) Q3-Q1
+- measure the middle 50% of the data.
+- indicates how the data is dispread around the mean.
+- helpful to detech the outliers from the data set.
+4. Standar Deviation the square root of variance
+- most important and frequently method in meassures of dispression
+- indicate how far away the datapoints in dispressed from the dataset.
+5. Mean deviation 
+- average of range data from mean.
+formula (|x-mu|/n)
