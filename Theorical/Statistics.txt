@@ -135,3 +135,17 @@ formula (sigma (x-mu)^2 / n )
 5. Mean deviation 
 - average of range data from mean.
 formula (|x-mu|/n)
+------------------------------
+
+--- Probability ---
+- the outcome any random events.
+formula (Fo/To) ** Fo = favourable cases, ** To = Total of possible outcome
+
+1. Addition Rule
+Rule 1
+- When the two events A&B are mutually exclusive, the probabilty that A or B will occur 
+is the sum of probability of each event.
+formula P (A U B) = P(A) + P(B)
+Rule 2
+- When the two event A&B are not mutually exclusive, the probability that A or B will occur
+is the sum of probability of each event and minus of intersection of A and B.
