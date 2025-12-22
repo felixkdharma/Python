@@ -158,3 +158,8 @@ P(A&B) = P(A) * P(B)
 
 3. Bayes Theorem
 - is the extension of conditional probability
+---------------------
+
+-------------- Probability Distribution ------------------
+1. Uniform Distribution
+- all possible outcomes are equally likely to happen 
