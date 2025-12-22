@@ -149,3 +149,17 @@ formula P (A U B) = P(A) + P(B)
 Rule 2
 - When the two event A&B are not mutually exclusive, the probability that A or B will occur
 is the sum of probability of each event and minus of intersection of A and B.
+2. Independent events
+- When two events A & B are said to be independent if any of the following equivalent statement hold:
+P(A/B) = P(A)
+P(B/A) = P(B)
+P(A&B) = P(A) * P(B)
+- Two events, A & B, are independent if the fact that A occurs does not affect the probability B occuring
+
+3. Bayes Theorem
+- is the extension of conditional probability
+---------------------
+
+-------------- Probability Distribution ------------------
+1. Uniform Distribution
+- all possible outcomes are equally likely to happen 
