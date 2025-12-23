@@ -163,3 +163,19 @@ P(A&B) = P(A) * P(B)
 -------------- Probability Distribution ------------------
 1. Uniform Distribution
 - all possible outcomes are equally likely to happen 
+2. Binominal Distribution
+- normal distribution for discrete data.
+3. Poisson Distribution
+- discrete probability distribution
+4. Normal  Distribution
+- also known as gaussian distribution
+- that is symetric about the mean
+- emperical rule represents the data lies between mu (68,2%, 95,4%, and 99,7%)
+5. Skewness
+- it indicate whether the data is distributed symetric or not.
+type of skewness: symetric, positif skewness, negative skewness
+6. Kurtosis
+- meassure the thickness of distribution the data
+- it tells the extent to which the distribution is more ore less
+prone than the normal distribution
+type of Kurtosis: Platykurtic, Mesokurtic (normal distribution), Leptokurtic
